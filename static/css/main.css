@@ -1,0 +1,55 @@
+body{
+    background: rgb(238,174,187);
+    background: radial-gradient(circle, rgba(238,174,187,1) 0%, rgba(148,170,233,1) 100%);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+img{
+    height: 480px;
+    width: 270px;
+}
+
+div.polaroid {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+
+h1{
+    text-align: center;
+    margin: 1em 0 0.5em 0;
+	color: #930ba0;
+	line-height: 40px;
+    font-size: 64px;
+	font-weight: bold;
+	font-family: montserrat;
+    color: #fdd0ff;
+    text-shadow: 0 0 5px #fda5ff, 0 0 10px #fda5ff,
+             0 0 20px #fda5ff, 0 0 30px #fda5ff,
+             0 0 40px #fda5ff;
+}
+
+#imgdes{
+    color: rgb(73, 73, 73);
+    font-family: montserrat;
+    font-style: bold;
+    font-size: 26px;
+    text-shadow: 5px 5px 10px #ff00d6;
+    letter-spacing: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+#para1{
+    font-family: montserrat;
+    font-style: bold;
+    font-size: 18px;
+    text-align: center;
+}
